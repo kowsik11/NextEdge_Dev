@@ -1,7 +1,5 @@
 # NextEdge: AI-Powered CRM Automation
 
-![NextEdge Logo](frontend/public/Logo.png)
-
 NextEdge is an innovative platform designed to streamline CRM processes through intelligent AI automation. It seamlessly integrates a modern Vite + React + TypeScript frontend with a robust FastAPI backend, offering powerful features for managing customer interactions, automating data entry, and enhancing overall productivity.
 
 ## ✨ Features
